@@ -2,8 +2,8 @@ IFT287_TP1
 ==========
 
 Travail pratique #1 présenté par :
-  -Alexandre Blais
-  -Félix Hamel
+  - Alexandre Blais
+  - Félix Hamel
 
 Énoncé
 --------------
